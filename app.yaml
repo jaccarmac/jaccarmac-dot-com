@@ -7,3 +7,5 @@ handlers:
   secure: always
   static_files: index.txt
   upload: index.txt
+- url: /.well-known
+  static_dir: .well-known
