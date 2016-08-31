@@ -4,5 +4,6 @@ threadsafe: true
 
 handlers:
 - url: /
+  secure: always
   static_files: index.txt
   upload: index.txt
