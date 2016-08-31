@@ -3,7 +3,7 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /.well-known
+- url: /\.well-known
   static_dir: .well-known
 - url: /
 #  secure: always
