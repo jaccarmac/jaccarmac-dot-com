@@ -3,9 +3,9 @@ api_version: 1
 threadsafe: true
 
 handlers:
+- url: /.well-known
+  static_dir: .well-known
 - url: /
 #  secure: always
   static_files: index.txt
   upload: index.txt
-- url: /.well-known
-  static_dir: .well-known
