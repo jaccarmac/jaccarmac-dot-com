@@ -3,8 +3,8 @@ api_version: 1
 threadsafe: true
 
 handlers:
-  static_dir: .well-known
 - url: /.well-known
+  static_dir: dot-well-known
 - url: /
   #  secure: always
   static_files: index.txt
