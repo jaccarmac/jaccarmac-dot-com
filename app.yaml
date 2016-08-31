@@ -4,7 +4,7 @@ threadsafe: true
 
 handlers:
 - url: /
-  secure: always
+#  secure: always
   static_files: index.txt
   upload: index.txt
 - url: /.well-known
