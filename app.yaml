@@ -6,6 +6,6 @@ handlers:
 - url: /.well-known
   static_dir: dot-well-known
 - url: /
-  #  secure: always
+  secure: always
   static_files: index.txt
   upload: index.txt
