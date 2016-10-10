@@ -5,7 +5,15 @@ threadsafe: true
 handlers:
 - url: /.well-known
   static_dir: dot-well-known
+- url: /index.css
+  secure: always
+  static_files: index.css
+  upload: index.css
+- url: /resume.pdf
+  secure: always
+  static_files: resume.pdf
+  upload: resume.pdf
 - url: /
   secure: always
-  static_files: index.txt
-  upload: index.txt
+  static_files: index.html
+  upload: index.html
