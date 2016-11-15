@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jaccarmac
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jaccarmac.com
+  * I am jaccarmac (https://keybase.io/jaccarmac) on keybase.
+  * I have a public key with fingerprint 4A8F 2C14 679E E66D F9F6  7865 C74F D39C BEE9 F655
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018effe430eb836eaffc88948d2a81c68b10239cee387dba439d3e96b58fe37c080a",
+            "fingerprint": "4a8f2c14679ee66df9f67865c74fd39cbee9f655",
+            "host": "keybase.io",
+            "key_id": "c74fd39cbee9f655",
+            "kid": "01018effe430eb836eaffc88948d2a81c68b10239cee387dba439d3e96b58fe37c080a",
+            "uid": "bfd01fc0a2d5ee0462aaa3c598210b00",
+            "username": "jaccarmac"
+        },
+        "service": {
+            "hostname": "jaccarmac.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479208351,
+    "expire_in": 157680000,
+    "prev": "201f51b50d443177324a6da6e96b46077a8da4407fed2fb663e3dc79811ba4d6",
+    "seqno": 39,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbbA1BGD5VrfaEukR44IFtX3DC7O7s7OxB0gjSUmnEJQjZzM7Mtqvn
+7B57Tg9Fg0jcU2nqFnFJiQglRVwSEtFGQyoivYSH4qFeWiptSFyrzDa8iEfzMpl/
+vu/7v+/P/3BMZiic8ai049T93k+rMp40nawMrZn5/uw2yfJYlRTdJlXw4YvHGE+m
+zAqHSVEJyEDG3LY5VAG3sIo4sW2KsQExUwiWKcKWDBTVoJyrWGcWgarBVG4gS8M2
+V3UKMCBSRLIdt4z7Cd9xU0IWEmwrVIZINzhHiNmGjXSMNKpDmwkxi3NR0TRBLPeS
+AUOYs0iSz3Y8URMPc9jeP/D/2XflsJxlMyDbFBCFaZwDiBRCiEo1AysysAAIgEnu
+uyTOBXojoZT4cUKl6ogkymmH8mCyQZS/IbOpFxfshO+lPOrFxFd5KpVIRgNqqioR
+YDdzy/ytYlqOy8QkBSPN/aTjuVJUFkiacgJZGeqGArCqyRGJb0k4PjedAKHpCANx
+gj48LSQVkUaTLQ0wCFVZ11UFEsQICvJDBHSdYEYgBLrNmWJbCKlcZVQ3sCyLSTEk
+Bbk2uZ4UVQ3hk5QJzaRT5pJUpc+l6uYH60eGMsKh7KwRwYqFwrnj/ize+Y+jfsYb
+unsWZ9evO7q0t3Pq0ORr97/umIRi0yvvnNPDXy5POLHkWv+K3VdttXjDlGnHwv3a
+zu+n36Rbv9XsalAazfacW90vW9/PfA7y327/saCwa0aT+7NhaptbNAcf/XrmmT52
+V/xzdiS2kDYWDBrmLLB+S2P7hsLXBUNtn+HxgbpLsLOn/zYrIsqZ63PjfRMX7OkK
+Lxu1qNm4kj9YWrLyyP62e1uP95fkxIx3+wx/0Y+Wms1NB1Xz6Y2a5bmvZ9WWwNVd
+WXmHLxqA96XLR9+cN1BfVTS/+tWHlsEXpebdvAsdjw8U11zNOVIwMKmg90Z13eLO
+tatYZlfeldbxtfl1+xaW7T30C42dSb4=
+=aPWb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaccarmac
+
+==================================================================

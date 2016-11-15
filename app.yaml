@@ -5,6 +5,10 @@ threadsafe: true
 handlers:
 - url: /.well-known
   static_dir: dot-well-known
+- url: /keybase.txt
+  secure: always
+  static_files: keybase.txt
+  upload: keybase.txt
 - url: /index.css
   secure: always
   static_files: index.css
