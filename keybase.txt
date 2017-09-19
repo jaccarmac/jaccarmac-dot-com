@@ -66,3 +66,58 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/jaccarmac
 
 ==================================================================
+==================================================================
+https://keybase.io/jaccarmac
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jaccarmac.com
+  * I am jaccarmac (https://keybase.io/jaccarmac) on keybase.
+  * I have a public key ASAoUBbOY1TKmh5qp271DMyd4CO_bm_N7ScPFk7KchKPZgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018effe430eb836eaffc88948d2a81c68b10239cee387dba439d3e96b58fe37c080a",
+      "host": "keybase.io",
+      "kid": "0120285016ce6354ca9a1e6aa76ef50ccc9de023bf6e6fcded270f164eca72128f660a",
+      "uid": "bfd01fc0a2d5ee0462aaa3c598210b00",
+      "username": "jaccarmac"
+    },
+    "merkle_root": {
+      "ctime": 1505782747,
+      "hash": "92944745801f3f397988bd384e1f62a1d8db71e4f18a6956e94e42d782ef320d8b410795216ab101dbcd33bf8878c1a88674dec6d8acd4d37449e10272e03b2d",
+      "hash_meta": "11467e23b9467e2de40e6b9478dadd6adc78b4d43c31eb936435de88cca3908d",
+      "seqno": 1403892
+    },
+    "service": {
+      "hostname": "www.jaccarmac.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1505782752,
+  "expire_in": 504576000,
+  "prev": "21f33b237e1759afa019933b32eb6e9a2b0124bc34c81d8b4292bb426d130b76",
+  "seqno": 78,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKFAWzmNUypoeaqdu9QzMneAjv25vze0nDxZOynISj2YKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOGVmZmU0MzBlYjgzNmVhZmZjODg5NDhkMmE4MWM2OGIxMDIzOWNlZTM4N2RiYTQzOWQzZTk2YjU4ZmUzN2MwODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjg1MDE2Y2U2MzU0Y2E5YTFlNmFhNzZlZjUwY2NjOWRlMDIzYmY2ZTZmY2RlZDI3MGYxNjRlY2E3MjEyOGY2NjBhIiwidWlkIjoiYmZkMDFmYzBhMmQ1ZWUwNDYyYWFhM2M1OTgyMTBiMDAiLCJ1c2VybmFtZSI6ImphY2Nhcm1hYyJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwNTc4Mjc0NywiaGFzaCI6IjkyOTQ0NzQ1ODAxZjNmMzk3OTg4YmQzODRlMWY2MmExZDhkYjcxZTRmMThhNjk1NmU5NGU0MmQ3ODJlZjMyMGQ4YjQxMDc5NTIxNmFiMTAxZGJjZDMzYmY4ODc4YzFhODg2NzRkZWM2ZDhhY2Q0ZDM3NDQ5ZTEwMjcyZTAzYjJkIiwiaGFzaF9tZXRhIjoiMTE0NjdlMjNiOTQ2N2UyZGU0MGU2Yjk0NzhkYWRkNmFkYzc4YjRkNDNjMzFlYjkzNjQzNWRlODhjY2EzOTA4ZCIsInNlcW5vIjoxNDAzODkyfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5qYWNjYXJtYWMuY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzEifSwiY3RpbWUiOjE1MDU3ODI3NTIsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMjFmMzNiMjM3ZTE3NTlhZmEwMTk5MzNiMzJlYjZlOWEyYjAxMjRiYzM0YzgxZDhiNDI5MmJiNDI2ZDEzMGI3NiIsInNlcW5vIjo3OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBr9fG/Y8S4tyvDFT/ozVaMEiV3wDs09xuojZWi8Mw2EuH2pd92aEs5pBpAHetNIt4QVmvuBAKmU7UL3dqUeCADqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQggsj/UeZPaG33zb7sC5JhDFBMvUoi9EPL1u3sBrSjVi2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jaccarmac
+
+==================================================================
