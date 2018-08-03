@@ -1,0 +1,37 @@
+#+TITLE: jaccarmac dot com
+#+AUTHOR:
+#+PANDOC_OPTIONS: css:index.css
+
+* I'm Jacob MacDonald.
+
+And this is my website. (Welcome!)
+
+** The source code's on [[https://chiselapp.com/user/jaccarmac/repository/jaccarmac-dot-com][a Chisel-hosted Fossil repository]].
+
+   I call this version =v0.5.2=.
+
+   As of yet, this place is pretty bare. But, you can find me in all the usual
+   places.
+
+   - [[https://twitter.com/jaccarmac][Twitter]].
+   - [[https://google.com/+JacobMacDonaldjaccarmac][Google+]].
+   - [[https://chiselapp.com/user/jaccarmac][Chisel]].
+   - [[https://github.com/jaccarmac][GitHub]].
+   - [[https://www.linkedin.com/in/jaccarmac][LinkedIn]].
+   - jaccarmac at (Google's email service or this domain).
+
+** My [[file:resume.pdf][resume]].
+
+** Emacs.
+
+I love me some Emacs. This site was made with it. You can look at the
+[[https://chiselapp.com/user/jaccarmac/repository/dot-emacs-dot-d][configuration I used]].
+
+If you're an Emacs user, check out this [[https://github.com/jaccarmac/quse-package][nifty package I made]]. It lets you
+download other packages and configure them (lazily!) To be fair, the hard work
+is done by two of the most useful packages for Emacs, IMO, =quelpa= and
+=use-package=.
+
+** Solri.
+
+I run the [[https://zod.that.world/giveaway/][Solri]] star =~bud=.
