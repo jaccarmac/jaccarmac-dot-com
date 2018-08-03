@@ -1,6 +1,6 @@
 #+TITLE: jaccarmac dot com
 #+AUTHOR:
-#+PANDOC_OPTIONS: css:index.css
+#+PANDOC_OPTIONS: css:sakura.css
 
 * I'm Jacob MacDonald.
 
@@ -14,6 +14,7 @@ And this is my website. (Welcome!)
    places.
 
    - [[https://twitter.com/jaccarmac][Twitter]].
+   - [[https://freedom.horse/@jaccarmac][freedom.horse]] (federation is neat).
    - [[https://google.com/+JacobMacDonaldjaccarmac][Google+]].
    - [[https://chiselapp.com/user/jaccarmac][Chisel]].
    - [[https://github.com/jaccarmac][GitHub]].
@@ -34,4 +35,4 @@ is done by two of the most useful packages for Emacs, IMO, =quelpa= and
 
 ** Solri.
 
-I run the [[https://zod.that.world/giveaway/][Solri]] star =~bud=.
+I run the [[https://zod.that.world/giveaway/][Solri]] star [[https://bud.jaccarmac.com/][=~bud=]].
