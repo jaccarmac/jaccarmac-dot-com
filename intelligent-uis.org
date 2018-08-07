@@ -1,0 +1,24 @@
+#+TITLE: "Intelligent" UIs
+#+AUTHOR:
+#+PANDOC_OPTIONS: css:sakura.css
+
+<2018-08-06 Mon>
+
+I've been running the Android P beta for a few months now. By far the most
+annoying part of my experience has been a feature that I can't find an official
+name for. For the purposes of this essay I'll refer to it as "self-hating
+notifications". A particularly egregious case of attempted self-destruction
+occurred this morning, and thus I found the [[https://android-developers.googleblog.com/2018/08/introducing-android-9-pie.html][announcement later in the day]]
+hilarious in a way. Google and every other trendy tech company is jumping on
+the machine-learning-user-interaction bandwagon, and it's a disaster. And as
+you'll see I say that as someone who could sometimes use some help with using
+my software. So let's ramble about how horrible this hype train is and some
+half-baked solution to the whole mess.
+
+* In which I'm bad at Emacs.
+
+* In which Android machine learning is useless.
+
+* In which I don't know things about AGI.
+
+* Making computers actually useful again.
