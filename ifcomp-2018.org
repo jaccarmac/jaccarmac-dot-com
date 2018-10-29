@@ -7,18 +7,45 @@
 * The Broken Bottle
 * The Origin of Madame Time
 
-  Finished on 27 October 2018.
+** Finished.
 
-  6.
+   27 October 2018.
+
+** Rating.
+
+   6.
+
+** Commentary.
+
+   * Setting didn't work for me personally.
+   * Puzzles were arbitrary (e.g. board, pen, symbol, corn).
+   * Bowl made no sense.
+   * Used hint system too much (maybe just me).
+   * Sloppy code around lens.
 
 * Intelmission
 * Into the Lair
 * Alias 'The Magpie'
 
-  on 28 October 2018.
+** Finished.
+
+   28 October 2018.
+
+** Rating.
+
+   9.
+
+** Commentary.
+
+   * Hint system didn't compromise the fun of the puzzles.
+   * Very few bugs, but annoying ones.
+   * Some repeated actions were a little non-obvious.
 
 * Adventures with Fido
 * Junior Arithmancer
+
+  next
+
 * Shackles of Control
 * And You May Find Yourself
 * Time Passed
