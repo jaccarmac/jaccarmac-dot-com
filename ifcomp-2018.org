@@ -112,6 +112,21 @@
 * Careless Talk
 * Bi Lines
 * Birmingham IV
+
+** Played (on ClubFloyd).
+
+   11 November 2018.
+
+** Rating.
+
+   7.
+
+** Commentary.
+
+   * Feels really big.
+   * Reminded me of limited experience solving puzzles in Discworld MUD.
+   * Parser far from perfect, but admittedly based on '88 game.
+
 * Writers Are Not Strangers
 * Campfire Tales
 * Abbess Otilia's Life and Death
