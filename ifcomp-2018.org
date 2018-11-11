@@ -51,37 +51,64 @@
 * Time Passed
 * H.M.S. Spaceman
 * Terminal Interface for Models RCM301-303
+
+  recommended
+
 * Pegasus
 * Space Punk Moon Tour
 * Erstwhile
+
+  recommended
+
 * The King of the World
 * The master of the land
+
+  recommended
+
 * The Addicott Manor
 * Dungeon Detective
 * Dead Man's Fiesta
+
+  recommended
+
 * Anno 1700
 * Charming
 * Basilica de Sangre
 * Tohu wa Bohu
+
+  recommended
+
 * The Forgotten Tavern
 * Instruction Set
 * Bullhockey!
 * Animalia
+
+  recommended
+
 * Tower
 * I.A.G. Alpha
 * Dynamite Powers vs. the Ray of Night!
 * Escape from Dinosaur Island
 * They Will Not Return
+
+  recommended
+
 * Six Silver Bullets
 * A Final Grind
 * Cannery Vale
 * Dream Pieces 2
 * Ürs
+
+  recommended
+
 * LET'S ROB A BANK
 * Linear Love
 * A Woman's Choice
 * Flowers of Mysteria
 * Bogeyman
+
+  recommended
+
 * Careless Talk
 * Bi Lines
 * Birmingham IV
@@ -94,6 +121,9 @@
 * Polish the Glass
 * Awake
 * DEVOTIONALIA
+
+  recommended
+
 * Let's Explore Geography! Canadian Commodities Trader Simulation Exercise
 * Border Reivers
 * Diddlebucker!
@@ -104,9 +134,15 @@
 * Tethered
 * En Garde
 * + = x
+
+  recommended
+
 * Grimnoir
 * smooch.click
 * Stone of Wisdom
 * Ostrich
+
+  recommended
+
 * Nightmare Adventure
 * Eunice
