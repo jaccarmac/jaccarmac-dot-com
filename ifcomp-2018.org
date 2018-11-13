@@ -81,7 +81,23 @@
 * Dungeon Detective
 * Dead Man's Fiesta
 
-  recommended
+** Finished.
+
+   12 November 2018.
+
+** Rating.
+
+   8.
+
+** Commentary.
+
+   * READING THE POEM FELT AMAZING.
+   * I'm a sucker for poems.
+   * Scrolling implementation is weird.
+   * At least one minor spelling error (pub -> pup).
+   * Seemed to be based on a "force you to continue when one choice is
+     unexplored" mechanic.
+   * Not a fan of the ending, docked a point.
 
 * Anno 1700
 * Charming
