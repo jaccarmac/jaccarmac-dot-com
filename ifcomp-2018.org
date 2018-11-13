@@ -44,19 +44,19 @@
 * Adventures with Fido
 * Junior Arithmancer
 
-* Finished (77/100).
+** Finished (77/100).
 
-  12 November 2018.
+   12 November 2018.
 
-* Rating.
+** Rating.
 
-  8.
+   8.
 
-* Commentary.
+** Commentary.
 
-  * Politics were a little... on the nose.
-  * Really really fun game loop.
-  * IF-ness of the game wasn't impressive at first, but drew me in over time.
+   * Politics were a little... on the nose.
+   * Really really fun game loop.
+   * IF-ness of the game wasn't impressive at first, but drew me in over time.
 
 * Shackles of Control
 * And You May Find Yourself
@@ -162,7 +162,21 @@
 * En Garde
 * + = x
 
-  recommended
+** Finished.
+
+   12 November 2018.
+
+** Rating.
+
+   7.
+
+** Commentary.
+
+   * Endless loops are cooler than people give them credit for.
+   * The way the end text was hidden slightly confused me.
+   * Compared to the reviews I read:
+     * The end text was far easier to find.
+     * The tone was far less dark.
 
 * Grimnoir
 * smooch.click
