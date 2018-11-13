@@ -44,7 +44,18 @@
 * Adventures with Fido
 * Junior Arithmancer
 
-  next
+* Finished (77/100).
+  12 November 2018.
+
+* Rating.
+
+  8.
+
+* Commentary.
+
+  * Politics were a little... on the nose.
+  * Really really fun game loop.
+  * IF-ness of the game wasn't impressive at first, but drew me in over time.
 
 * Shackles of Control
 * And You May Find Yourself
