@@ -28,3 +28,7 @@ half-baked solution to the whole mess.
   https://theoutline.com/post/6572/my-iphone-is-trying-to-make-me-a-better-it-wont-work
 
   https://medium.com/@okh/please-resist-googles-attempts-to-make-you-more-robotlike-2f5babd786aa
+
+  https://news.ycombinator.com/item?id=18665048
+  https://twitter.com/gbrockell/status/1072589687489998848
+  only trained one layer deep or something
