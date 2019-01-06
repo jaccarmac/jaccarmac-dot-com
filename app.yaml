@@ -5,22 +5,32 @@ threadsafe: true
 handlers:
 - url: /.well-known
   static_dir: dot-well-known
+  http_headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 - url: /keybase.txt
   secure: always
   static_files: keybase.txt
   upload: keybase.txt
+  http_headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 - url: /index.css
   secure: always
   static_files: index.css
   upload: index.css
+  http_headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 - url: /resume.pdf
   secure: always
   static_files: resume.pdf
   upload: resume.pdf
+  http_headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 - url: /
   secure: always
   static_files: index.html
   upload: index.html
+  http_headers:
+    X-Clacks-Overhead: GNU Terry Pratchett
 
 skip_files:
 - ^(.*/)?#.*#$

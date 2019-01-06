@@ -1,6 +1,6 @@
 #+TITLE: jaccarmac dot com
 #+AUTHOR:
-#+PANDOC_OPTIONS: css:sakura.css
+#+PANDOC_OPTIONS: css:index.css
 
 * I'm Jacob MacDonald.
 
