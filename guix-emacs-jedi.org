@@ -1,0 +1,54 @@
+* Starting Python config.
+
+  #+begin_src python
+    (quse-package jedi
+      :init
+      (add-hook 'python-mode-hook 'jedi:setup)
+      (setf jedi:complete-on-dot t)
+      (setf jedi:use-shortcuts t))
+
+    (quse-package virtualenvwrapper
+      :preface
+      (defvar python-environment-directory)
+      (defvar venv-location)
+      :init
+      (venv-initialize-interactive-shells)
+      (venv-initialize-eshell)
+      (let ((global-venv-location "~/.virtualenvs"))
+        (setf python-environment-directory global-venv-location)
+        (setf venv-location global-venv-location)))
+  #+end_src
+
+* References.
+
+  * https://blogs.rdoproject.org/2015/10/guix-tox-a-functional-version-of-tox/
+  * https://gitlab.com/pjotrp/guix-notes/blob/master/PYTHON.org
+
+* Implementation.
+
+  Create a Guix environment from a manifest like:
+
+  #+begin_src scheme
+    (specifications->manifest
+      '("python" "python-virtualenv"))
+  #+end_src
+
+  #+begin_src sh
+    guix environment -m guix-manifest.scm
+  #+end_src
+
+  Delete =~/.virtualenvs/default=.
+
+  Launch Emacs.
+
+  ~M-x jedi:install-server~
+
+* TODO.
+
+  How to make environment temporary? (Or tag with the environment hash a la the
+  tox post.)
+
+  Automating.
+
+  Fully using Guix for Emacs config/using =python-jedi= package/not needing
+  =python-virtualenv=.
