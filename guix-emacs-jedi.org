@@ -23,6 +23,7 @@
 
   * https://blogs.rdoproject.org/2015/10/guix-tox-a-functional-version-of-tox/
   * https://gitlab.com/pjotrp/guix-notes/blob/master/PYTHON.org
+  * https://gitlab.com/pjotrp/guix-notes/blob/master/blogs/python-development-with-guix.org
 
 * Implementation.
 
@@ -52,3 +53,5 @@
 
   Fully using Guix for Emacs config/using =python-jedi= package/not needing
   =python-virtualenv=.
+
+  Use ~guix package -p~ instead of ~guix environment~.
