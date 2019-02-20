@@ -52,6 +52,6 @@
   Automating.
 
   Fully using Guix for Emacs config/using =python-jedi= package/not needing
-  =python-virtualenv=.
+  =python-virtualenv=. ([[https://gitlab.com/ambrevar/dotfiles][This guy has a full Guix Emacs env]].)
 
   Use ~guix package -p~ instead of ~guix environment~.
