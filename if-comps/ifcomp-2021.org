@@ -22,6 +22,14 @@ rooms were my failure and not the game's.
 * An Aside About Everything
 * A Papal Summons, or The Church Cat
 * My Gender Is a Fish
+** Finished [2021-11-15 Mon].
+** Rated 4.
+** Noted.
+The prose was nice enough, and the impact of the choices felt smooth and not
+pasted-in. The problem is how little impact they have on the interactivity. I
+thought it was a fine Twine essay with hypertext sprinkles. I think it would be
+interesting to have a more leisurely procession of sensations, but am not sure
+how to do it without adding more choiceless choices.
 * Plane Walker
 * Off-Season at the Dream Factory
 * Brave Bear
@@ -44,12 +52,34 @@ rooms were my failure and not the game's.
 * Wabewalker
 * The Last Doctor
 * Enveloping Darkness
+** Finished [2021-11-15 Mon].
+** Rated 3.
+** Noted.
+There were no noticeable errors, and the interface was smooth. However, the
+choices started to feel pointless early on, and by the end the lack of choice
+at all started to glare. It was around that point that I started to realize
+that the protagonist's affect seemed to be determined more by the plot than my
+input.
 * This Won't Make You Happy
+** Finished [2021-11-15 Mon].
+** Rated 4.
+** Noted.
+I thought this was unfinished-not-incomplete and a bit too cute for its own
+good. I finished Piranesi recently and appreciated the World speaking; The
+edibility of nouns was just right. I hope the author enjoyed making the more
+gonzo PowerPoint transitions, but am skeptical about their merit.
 * The Golden Heist
 * Infinite Adventure
 * And Then You Come to a House Not Unlike the Previous One
 * At King Arthur's Christmas Feast
 * The Miller's Garden
+** Finished [2021-11-15 Mon].
+** Rated 5.
+** Noted.
+I rather enjoyed the meditative nature inherent to gardening games. The
+deformation of the graphics is a really neat piece of tech, and makes the most
+of the limited choice space. I didn't love being forced through each zone over
+and over, especially as the closest one was a lawn.
 * How it was then and how it is now
 * D'ARKUN
 * Grandma Bethlinda's Remarkable Egg
