@@ -1,4 +1,23 @@
 * After-Words
+** Finished [2021-11-15 Mon].
+** Rated 6.
+** Noted.
+The game succeeds on being evocative, and that's in no small part thanks to the
+map. It's beautiful in an understated way, and the clipped descriptions would
+mean a lot less without the colors and symbols to guide the eye, and gaps that
+guide the mind into filling them up. I was worried at first that the
+puzzle-solving would be too linear. That was unfounded (for the most part): The
+gameplay got much more interesting once multiple gates were revealed. However,
+at the end of each path is an "X Resolution", which kills the poetry of the
+setting and makes it feels closed-in again. The other negative was the
+interface: I quite enjoyed clicking through descriptions after I figured out
+how merciful the engine was, but don't think the modal interaction works. Maybe
+it would be less arduous on a phone or with a mouse, but it was a lot of small
+clicks on a trackpad. Let me reemphasize that having room descriptions
+expandable in multiple ways was a plus for me: I've seen other reviews which
+criticize that aspect. I did fall back on a brute force pattern at times: Look
+to maximum depth, then Interact back down. My brute force attempts at items in
+rooms were my failure and not the game's.
 * The daughter
 * An Aside About Everything
 * A Papal Summons, or The Church Cat
