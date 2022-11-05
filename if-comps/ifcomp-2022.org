@@ -71,6 +71,16 @@ implementation or pertinent help text would do a lot for this one.
 * Under the Bridge
 * The Princess of Vestria
 * Witchfinders
+** Finished [2022-11-04 Fri].
+** Rated 4.
+** Noted.
+Formally, I expected to really dislike the simple task loop. Happily, the world
+is fleshed out with additional scenes which make me happy I spent some time in
+the world. I found the cattle solution second, by stumbling onto its solution
+more or less randomly. I may revisit the game to see the failure condition
+because it felt easier to get stuck than to lose altogether. The "house rules"
+are just enough shine on the Twine part: Besides that, it feels like a very
+straightforward IFComp choice game. I hope we see more!
 * Tower of Plargh
 * The Tin Mug
 * Lazy Wizard's Guide
