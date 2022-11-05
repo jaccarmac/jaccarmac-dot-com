@@ -42,6 +42,14 @@ implementation or pertinent help text would do a lot for this one.
 * Glimmer
 * You May Not Escape!
 * Nose Bleed
+** Finished [2022-11-04 Fri].
+** Rated 8.
+** Noted.
+The limited palette is still viscerally effective. The visual design and coding
+squeeze everything out of Texture they can, and while I hate hunt-the-pixel
+games, it worked well enough for me to use all three draggables. It's hard to
+find something this focused and this good, though I felt the text acted as more
+of a gimmick than as fiction per se.
 * Use Your Psychic Powers at Applebee's
 * You Feel Like You've Read this in a Book
 * The Last Christmas Present
