@@ -16,6 +16,19 @@
 * The Only Possible Prom Dress
 * An Alien's Mistaken Impressions of Humanity's Pockets
 * Who Shot Gum E. Bear?
+** Finished [2022-11-04 Fri].
+** Rated 6.
+** Noted.
+The prose was a delight, making my final verdict "a fine piece of minimalist
+detective noir". I did run into a problem that seems common (since I had to
+read reviews to finish): There is little connection between most of the game
+and the solution. I slept on that and realized it isn't /technically/ true. The
+key to the mystery is given early, and nibbled at my brain throughout my
+playthrough. It was emphasized by unfamiliar but pervasive hinting. I felt
+stupid because of what appear still to be red herrings and locked doors, and
+that's something I never want to feel at the end of a mystery game. But in the
+end I have to respect the cleverness of the solution. A slightly smoother
+implementation or pertinent help text would do a lot for this one.
 * Zero Chance of Recovery
 * Lost Coastlines
 * CHASE THE SUN
