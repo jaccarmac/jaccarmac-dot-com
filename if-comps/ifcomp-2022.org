@@ -3,10 +3,32 @@
 * Thanatophobia
 * A Matter of Heist Urgency
 * The Lottery Ticket
+** Finished [2022-11-14 Mon].
+** Rated 4.
+** Noted.
+I am quite intrigued by the presentation of this kind of narrative, even though
+what it asked of me was uneven and I have little desire to revisit it. The most
+interesting thread to pull on (I admit thanks to non-IFComp reading and
+thinking) is that of time, but both stories are presented in straightforward
+linear fashion, and the opportunities for interaction appear small between long
+blocks of text. I do feel like my attention was demanded and well-used on the
+Chekhov, but there's so much less characterization in the frame story and no
+good way to put myself in there.
 * The Alchemist
 * The Thirty Nine Steps
 * i wish you were dead.
 * The Hidden King's Tomb
+** Finished [2022-11-14 Mon].
+** Rated 3.
+** Noted.
+This game has one of the most economic blurbs I've seen in IFComp, just enough
+to put my slightly off-balance but whet the appetite for a classic cave
+crawl. The prose was quite pleasant; I look forward to checking out Counsel and
+hopeful future parser efforts. This cave, though, is a setpiece which wants
+another layer of implementation. The verb-guess is very classic, but the puzzle
+solution feels slapped-on-the-end given the size of the entire environment. The
+skeleton types were great touches, though! And I enjoyed the secondary tombs
+even though they seemed less than connected to solutions.
 * A Walk Around the Neighborhood
 * U.S. Route 160
 * Through the Forest with the Beast
@@ -62,6 +84,19 @@ of a gimmick than as fiction per se.
 * Am I My Brother's Keeper?
 * The Counsel in The Cave
 * Lucid
+** Finished [2022-11-14 Mon].
+** Rated 8.
+** Noted.
+I started reading the author's Substack and guessed correctly that this would
+be exactly up my alley. Extremely pleased with that, and with the fact that the
+path I took ended up feeling perfect, almost cozy, if you could call Lucid
+that. The only nitpicks I have are about its/it's confusion and the barebones
+styling. There is a nice switch-up at the end, though, which dovetailed
+perfectly with my opening explorations. Lucid reminds me of The good people,
+the first Pseudavid game I played, blurring the game-hypertext line by letting
+you explore a narrative space in Twine. I have complicated feelings about the
+gameness of games like that, but when the first-play experience is this
+immaculate, I have to admit there's still room for it to grow on me.
 * Trouble in Sector 471
 * Blood Island
 * Let Them Eat Cake
