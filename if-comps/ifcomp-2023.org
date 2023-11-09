@@ -17,6 +17,24 @@
 * Hand Me Down
 * Assembly
 * Tricks of light in the forest
+** Finished [2023-11-08].
+** Rated 6.
+** Noted.
+Tricks of light is from a favorite (wish I could say perennial, but I think
+that I have in fact only played Pseudavid's The good people, which I adored)
+and an auspicious starting point, as I noted CMG starting with its review but
+not who CMG was (another favorite, it turns out). The game is a too-appropriate
+companion to my last book club book, which generated similar reactions for
+similar reasons. The (evidently Gruescript) form works well here, but is also
+somewhat frustrating for a parser-focused player: There's a lot of work in the
+subtleties of retracing steps. The game does capture perfectly the feeling of a
+venture just too far into the forest: Too well in "scoring terms", if the
+player feels the parental rules pressing on them. The affordances for reading
+and interacting have just a bit too much friction, especially the switching-to
+and reading-of the map. Narrative flow, as such, is linear, but it really seems
+that that isn't the point, and the mood of the piece is very near
+seamless. Even played fast, as I sinfully did. I'm not a particular good child,
+both Tricks and the Blue Book demonstrate.
 * Honk!
 * Virtue
 * Please Sign Here
