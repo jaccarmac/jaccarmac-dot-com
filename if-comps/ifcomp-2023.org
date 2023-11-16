@@ -1,4 +1,16 @@
 * The Paper Magician
+** Finished [2023-11-15].
+** Rated 4.
+** Noted.
+Other reviews have discussed the impact of Twine in two key areas, and they're
+right. Funnily enough, the short length of the game made the navigation
+fiddliness almost charming: It would have been great as a small part of a
+longer game. That's the theme of my impression, really, grousing about the
+choice of choice for a short puzzler aside. The prose in certain sections is
+obviously more-worked, the dash of art at the end has quite a nice
+effect. However, the de facto Guess The Verb and featureless hallways were pure
+downsides, and the quarantining of magic to linear sections prevented me from
+wanting to play again.
 * Detective Osiris
 * Put Your Hand Inside The Puppet Head
 * Artful Deceit
@@ -10,6 +22,17 @@
 * Milliways: the Restaurant at the End of the Universe
 * Help! I Can't Find My Glasses!
 * DICK MCBUTTS GETS KICKED IN THE NUTS
+** Finished [2023-11-15].
+** Rated 7.
+** Noted.
+I feel secure in comparing this to my experience of Turandot a few years ago,
+despite (I'm afraid) the visual inferiority. The halves play against each other
+well, especially since the WordArt effects are anything but tossed-off. The
+longer narrative felt rather linear, but did reward me for what felt like
+reasonable choices. Many standout turns of phrase; I found "swastika of pain"
+hit harder than any of the testicular ones. DICK MCBUTTS is under total
+authorial control, and that makes him cozy, even in spartan environs of limited
+interactivity.
 * Last Valentine's Day
 * The Little Match Girl 4
 * Meritocracy
@@ -40,6 +63,17 @@ both Tricks and the Blue Book demonstrate.
 * Please Sign Here
 * We All Fall Together
 * The Whale's Keeper
+** Finished [2023-11-15 Wed]
+** Rated 8.
+** Noted.
+The statistical breadcrumbs suggest that I played wide and shallow, and I did
+not expect the grief to arrive so strong or the experience to feel so
+complete. The art is very nice, and it would be nicer if there was more of it;
+The timed text felt like the weakest technical link, though I ignored the speed
+options 'til late. (There were a couple minor issues where the bot seemed to
+pick up my last command instead of printing the new options.) Jonah has plenty
+of religious resonance. The game was very respectful of the choice to avoid
+horror, or just telegraphed what it didn't have.
 * Xanthippe's Last Night with Socrates
 * Antony & Cleopatra: Case IV: The Murder of Marlon Brando
 * Dr Ludwig and the Devil
@@ -58,6 +92,14 @@ both Tricks and the Blue Book demonstrate.
 * My Brother; The Parasite
 * The Finders Commission
 * For Eternity, Again and Again
+** Finished [2023-11-15 Wed].
+** Rated 2.
+** Noted.
+The unclear but seemingly meaningless choice between lover and hero sides
+turned me away from exploring the advertised branching. The writing was only
+rough on a nitpick level, but it also didn't justify the skipping-over of all
+heroics. The near-evocation of a video game was neat, though, and hopefully not
+something I'm overreading.
 * All Hands Abandon Ship
 * Hawkstone
 * Creative Cooking
