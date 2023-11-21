@@ -21,7 +21,7 @@
                                       RIGHT JOIN leaf l ON t.rid = l.rid
                                       WHERE t.value = 'trunk'"))
            (compressed (execute-single db "SELECT content FROM artifact
-                                           WHERE rid = ?" trunk)))
+                                           WHERE rid = ?" trunk))) ; TODO: artifact is wrong: https://fossil-scm.org/home/doc/trunk/www/fossil-is-not-relational.md
       (sb-ext:octets-to-string (decompress nil 'zlib compressed :input-start 4)))))
 
 
@@ -30,3 +30,10 @@
 
 ;; https://www.reddit.com/r/googlecloud/comments/117dd9i/cloud_run_broken_by_design/j9ddq8a/
 ;; Move to Cloud Run or maybe not.
+
+;; Is the JSON API (https://fossil-scm.org/home/doc/trunk/www/json-api/) better?
+;;
+;; Or libfossil? other function definitions:
+;; https://fossil.wanderinghorse.net/r/libfossil/doc/ckout/doc/db-udf.md;
+;; resolving "trunk"
+;; &c. https://fossil.wanderinghorse.net/r/libfossil/file?name=f-apps/f-resolve.c
