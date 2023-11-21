@@ -20,7 +20,7 @@
     (let* ((trunk (execute-single db "SELECT t.rid FROM tagxref t
                                       RIGHT JOIN leaf l ON t.rid = l.rid
                                       WHERE t.value = 'trunk'"))
-           (compressed (execute-single db "SELECT content FROM artifact
+           (compressed (execute-single db "SELECT content FROM blob
                                            WHERE rid = ?" trunk))) ; TODO: artifact is wrong: https://fossil-scm.org/home/doc/trunk/www/fossil-is-not-relational.md
       (sb-ext:octets-to-string (decompress nil 'zlib compressed :input-start 4)))))
 
